@@ -1,0 +1,1 @@
+export default ()=><span>index page</span>
